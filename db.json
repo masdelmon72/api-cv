@@ -2,6 +2,30 @@
   "experiences": [
     {
       "id": 1,
+      "dal": "22/07/2024",
+      "al": "31/10/2024",
+      "occupation": "Java Developer",
+      "employer": "RpctTech srl, Roma",
+      "activities": "Sviluppo e manutenzione software su microservizi di RxR Healthcare system"
+    },
+    {
+      "id": 2,
+      "dal": "16/05/2022",
+      "al": "15/05/2023",
+      "occupation": "Java Developer",
+      "employer": "Emme Informatica srl, Napoli",
+      "activities": "Sviluppo e manutenzione software su microservizi di RxR Healthcare system della Walgreens Boots Alliance"
+    },
+    {
+      "id": 3,
+      "dal": "16/09/2020",
+      "al": "10/05/2022",
+      "occupation": "Java Developer",
+      "employer": "Engineering SpA, Napoli",
+      "activities": "Sviluppo e manutenzione su Portale Caccia/Pesca di Regione Piemonte"
+    },
+    {
+      "id": 4,
       "dal": "03/06/2019",
       "al": "29/11/2019",
       "occupation": "Integration engineer",
@@ -9,7 +33,7 @@
       "activities": "Sviluppo di applicazioni web usando il framework EAT di Ericsson"
     },
     {
-      "id": 2,
+      "id": 5,
       "dal": "12/07/2018",
       "al": "12/11/2018",
       "occupation": "Java developer",
@@ -17,7 +41,7 @@
       "activities": "Sviluppo e manutenzione su UnicoWeb e UnicoBatch"
     },
     {
-      "id": 3,
+      "id": 6,
       "dal": "29/01/2018",
       "al": "29/06/2018",
       "occupation": "Java developer",
@@ -25,7 +49,7 @@
       "activities": "Sviluppo di applicazioni web usando il framework Jaf di polimi"
     },
     {
-      "id": 4,
+      "id": 7,
       "dal": "02/10/2017",
       "al": "05/01/2018",
       "occupation": "OFML Data creator",
@@ -33,7 +57,7 @@
       "activities": "Creazione dati per interior design. Uso di PHP per viewer webGL"
     },
     {
-      "id": 5,
+      "id": 8,
       "dal": "11/12/2014",
       "al": "11/12/2015",
       "occupation": "Security engineer",
@@ -41,7 +65,7 @@
       "activities": "Risoluzione di issue di codice per vari progetti per la gestione delle fatture di tipo 0 e traffico di rete utilizzando prodotti come Fortify HP"
     },
     {
-      "id": 6,
+      "id": 9,
       "dal": "03/09/2012",
       "al": "04/03/2013",
       "occupation": "PL/SQL Oracle developer",
@@ -49,7 +73,7 @@
       "activities": "Sviluppo e testing del software utilizzando tecnologie PL/SQL  Oracle. Utilizzo in fase di convalida di moduli white-box per la realizzazione di unit test"
     },
     {
-      "id": 7,
+      "id": 10,
       "dal": "15/05/2011",
       "al": "27/06/2016",
       "occupation": "Java developer",
@@ -57,7 +81,7 @@
       "activities": "Integrazione di web service con Axis2"
     },
     {
-      "id": 8,
+      "id": 11,
       "dal": "28/06/2010",
       "al": "23/09/2010",
       "occupation": "Java developer",
@@ -65,7 +89,7 @@
       "activities": "Manutenzione e sviluppo software sul progetto JWD inerente la gestione delle pratiche assicurative di Cattolica Assicurazioni"
     },
     {
-      "id": 9,
+      "id": 12,
       "dal": "02/11/2009",
       "al": "02/04/2010",
       "occupation": "Web Full stack developer",
@@ -73,7 +97,7 @@
       "activities": "Manutenzione e sviluppo software utilizzando sia tecnologie web come JSP, HTML, Java Script e moduli del Framework Spago, che tecnologie database come PL/SQL, TABLE, PROCEDURE, FUNCTION, etc"
     },
     {
-      "id": 10,
+      "id": 13,
       "dal": "14/03/2013",
       "al": "14/10/2014",
       "occupation": "Java developer",
@@ -81,7 +105,7 @@
       "activities": "Realizzazione di un Tool di Generazione automatica di artifact relativi ad applicazioni web con Framework Struts 2 e myBatis. Prototipo di web application per Buste Paghe Dipendenti in Spring MVC. Utilizzo di AngularJS con componente http per il richiamo di servizi rest e presentation layer."
     },
     {
-      "id": 11,
+      "id": 14,
       "dal": "01/09/2008",
       "al": "31/12/2008",
       "occupation": "DevOps expert",
@@ -89,7 +113,7 @@
       "activities": "Verifica congruenza dati su pdf di fatturazione secondo il campionamento effettuato."
     },
     {
-      "id": 12,
+      "id": 15,
       "dal": "01/09/2008",
       "al": "31/12/2008",
       "occupation": "DevOps expert",
@@ -97,7 +121,7 @@
       "activities": "Verifica congruenza dati su pdf di fatturazione secondo il campionamento effettuato."
     },
     {
-      "id": 13,
+      "id": 16,
       "dal": "17/03/2008",
       "al": "30/05/2008",
       "occupation": "DataWarehouse engineer",
@@ -105,7 +129,7 @@
       "activities": "Studio delle specifiche funzionali del progetto e dei prodotti utilizzati dal progetto quali: DataStage IBM. A proposito della tecnologia J2EE ho realizzato dei componenti Enterprise JavaBean EjB 1.* stateless"
     },
     {
-      "id": 14,
+      "id": 17,
       "dal": "17/03/2008",
       "al": "30/05/2008",
       "occupation": "Web full stack developer",
@@ -113,7 +137,7 @@
       "activities": "Migrazione del Framework OMP dalla release 2.1 alla release 2.4, occupandomi di procedure PL/SQL da aggiornare e modifiche ad un processo grafico per la generazione di immagini in AWT 1.1 Java. Utilizzo in fase di convalida di moduli black-box per la realizzazione di integration test."
     },
     {
-      "id": 15,
+      "id": 18,
       "dal": "17/03/2008",
       "al": "30/05/2008",
       "occupation": "Software developer",
@@ -121,7 +145,7 @@
       "activities": "Analisi del tool CHT Report e ristrutturazione della base dati del medesimo realizzando dei documenti word ed excel di analisi"
     },
       {
-      "id": 16,
+      "id": 19,
       "dal": "06/11/2007",
       "al": "31/02/2008",
       "occupation": "DataWarehouse engineer",
@@ -129,7 +153,7 @@
       "activities": "Attività di customizzazione di componenti OWB"
     },
       {
-      "id": 17,
+      "id": 20,
       "dal": "17/03/2008",
       "al": "30/05/2008",
       "occupation": "DataWarehouse engineer",
@@ -137,7 +161,7 @@
       "activities": "Manutenzione, testing unit/integration e rilascio software relative alla release 4.1.1 KIT SECURITY. Ho, seppur brevemente, approfondito dal punto di vista pratico, le conoscenze di Oracle in merito allo uso delle External Table."
     },
       {
-      "id": 18,
+      "id": 21,
       "dal": "21/03/2006",
       "al": "31/12/2006",
       "occupation": "DevOps engineer",
@@ -145,7 +169,7 @@
       "activities": "Attività di deployment e supporto esercizio su E-Billing"
        },
       {
-      "id": 19,
+      "id": 22,
       "dal": "31/12/2004",
       "al": "31/08/2005",
       "occupation": "Java developer",
@@ -153,7 +177,7 @@
       "activities": "Sviluppo software consistente nell’effettuare una parte del porting di un sistema, OFPS della ORGA, nel sistema/piattaforma ARBOR utilizzato dalla IT TELECOM. Eseguiti test d’integrazione utilizzando black-box."
     },
     {
-      "id": 20,
+      "id": 23,
       "dal": "09/08/2004",
       "al": "31/12/2004",
       "occupation": "Pro*C Oracle developer",
@@ -161,7 +185,7 @@
       "activities": "Manutenzione sul sistema TMH e porting del sistema stesso su macchine Sun più evolute; messa a punto del software e della base dati ORACLE 9i. Esecuzione di unit test con white box."
        },
     {
-      "id": 21,
+      "id": 24,
       "dal": "09/05/2003",
       "al": "09/08/2004",
       "occupation": "Oracle developer",
@@ -169,7 +193,7 @@
       "activities": "Realizzazione di  componenti custom per la piattaforma ARBOR utilizzando Pro*c, OCI ORACLE e PL/SQL.. Attività di manutenzione realizzando un software per la gestione di disallineamenti sulla base dati del sistema ARBOR. testing d’integrazione con black-box."
        },
     {
-      "id": 22,
+      "id": 25,
       "dal": "09/05/2001",
       "al": "09/05/2003",
       "occupation": "Full stack developer",
@@ -177,7 +201,7 @@
       "activities": "Manutenzione su procedure del sistema multipiattaforma VMS, UNIX, WINDOW CGRF relative al porting su macchine più evolute. Attività di sviluppo sperimentale per il Web, realizzando applet in Java, servlet/jsp e componenti usando Javascript e DHTML. Utilizzo di  XSLT per la traduzione di dati XML in HTML"
        },
     {
-      "id": 23,
+      "id": 26,
       "dal": "13/12/1999",
       "al": "29/03/2001",
       "occupation": "DevOps engineer",
